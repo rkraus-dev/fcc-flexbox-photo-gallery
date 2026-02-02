@@ -1,9 +1,9 @@
-# 📷 Photo Gallery - ![Status](https://img.shields.io/badge/status-in--progress-yellow)
+# 📷 Photo Gallery - ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 This project is part of the **freeCodeCamp Responsive Web Design Certification**. It focuses on the power of **CSS Flexbox** to create a responsive, centered image gallery that adapts beautifully to different screen sizes.
 
 ## 🛠 Technologies
-* **HTML5:** Semantic structure with a clear header and image container.
+* **HTML5:** Structure with a clear header and image container.
 * **CSS3:** Flexbox (`flex-wrap`, `justify-content`), `object-fit` for image scaling, and pseudo-elements for layout alignment.
 
 ## 🚀 Features
@@ -21,7 +21,7 @@ This project is part of the **freeCodeCamp Responsive Web Design Certification**
 2. Open `index.html` in your browser.
 
 ## 🖼 Preview
-*This section is currently a work in progress and will be expanded as the project moves forward.*
+![Project Preview](preview.png)
 
 ### Quick Links
 [Live Demo](https://rkraus-dev.github.io/fcc-flexbox-photo-gallery/) *(Coming Soon)*
